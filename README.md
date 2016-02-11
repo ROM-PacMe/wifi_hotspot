@@ -1,8 +1,8 @@
 # Wi-Fi hotspot
 Toggle Wi-Fi hotspot android app
 
-**APK**
-> https://drive.google.com/open?id=0B_P-p9FGn12ZcG1zcDR2cUVEVkU
+**Play Store**
+> https://play.google.com/store/apps/details?id=com.diewland.wi_fihotspot
 
 **References**
 > http://stackoverflow.com/questions/6394599/android-turn-on-off-wifi-hotspot-programmatically
